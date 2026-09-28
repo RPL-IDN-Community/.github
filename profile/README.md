@@ -1,12 +1,17 @@
-## Hi there 👋
+<div align="center">
+  
+# 💻 Welcome to RPL - IDN - Community! 🚀
 
-<!--
+**Wadah kolaborasi, belajar, dan berkarya untuk siswa dan alumni Rekayasa Perangkat Lunak - IDN Boarding School.**
 
-**Here are some ideas to get you started:**
+<br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🚀 Tentang Kami
+
+**RPL - IDN - Community** adalah ruang terbuka (*open-source*) yang didedikasikan untuk keluarga besar jurusan Rekayasa Perangkat Lunak di **IDN Boarding School**. Komunitas ini dibangun untuk memperkuat kolaborasi antara siswa aktif dan alumni, serta menjadi tempat untuk saling berbagi ilmu, membedah kode, dan membangun portofolio teknologi bersama.
+
+```python
+while (alive):
+    code()
+    learn()
+    share()
